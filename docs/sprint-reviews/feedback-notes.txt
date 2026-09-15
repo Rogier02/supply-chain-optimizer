@@ -1,0 +1,17 @@
+Iteratie process
+
+Methods:  Outrekenen hoe veel sprints hebben
+
+Goal zetten voor elke sprint en hoe veel, wat is realistische. Wat will je als eind product. 
+
+~ 5 pages 
+
+MVP flow and defined scope. redo
+--> Setup an endgoal for the project, what you want it to look like and work backwards when planning sprints and checking for goals. 
+
+Sprint 1 intro study planning for project.
+
+Sprint 2 end of month sept upcoming: small website ("Hello world") and sample data set for testing...
+
+
+
